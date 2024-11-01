@@ -1,0 +1,5 @@
+C:\Users\12995884686\Documents\Igor Flores\Lista 1 - Matheus\Lista1_CSharp\Lista1_CSharp\obj\Debug\net8.0\Lista1_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12995884686\Documents\Igor Flores\Lista 1 - Matheus\Lista1_CSharp\Lista1_CSharp\obj\Debug\net8.0\Lista1_CSharp.AssemblyInfoInputs.cache
+C:\Users\12995884686\Documents\Igor Flores\Lista 1 - Matheus\Lista1_CSharp\Lista1_CSharp\obj\Debug\net8.0\Lista1_CSharp.AssemblyInfo.cs
+C:\Users\12995884686\Documents\Igor Flores\Lista 1 - Matheus\Lista1_CSharp\Lista1_CSharp\obj\Debug\net8.0\Lista1_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\12995884686\Documents\Igor Flores\Lista 1 - Matheus\Lista1_CSharp\Lista1_CSharp\obj\Debug\net8.0\Lista1_CSharp.sourcelink.json
